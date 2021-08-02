@@ -1,2 +1,2 @@
 # RNN-Stock-Price-Prediction
-Predicting stock prices with a Recurrent Neural Network built using Tensorflow Keras.
+Predicting stock prices with a Tensorflow Keras Recurrent Neural Network model built using Python.
